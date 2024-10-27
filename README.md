@@ -30,3 +30,7 @@ sila-app/pkg/db/postgres.New({0xa841a8, 0xc0001ba510}, {0xc000028059?, 0xa7c5d0?
         /app/pkg/db/postgres/postgres.go:16 +0xf4
 main.main()
         /app/cmd/app/main.go:17 +0x8f
+
+FRONTEND - https://github.com/vdmkkk/CP_CHARIOT
+
+ML - https://github.com/TheTom205/cp-misis-chariot-rag/tree/main
